@@ -1,7 +1,7 @@
 # Weather-Application
 A simple weather-app in nodejs
 
-This is a simple WeatherApp built entirely on nodejs.
+This is a WeatherApp built entirely on nodejs.
 
 This app uses request and yargs modules. The require module is used to get api from ipinfo.io in JSON format. The yargs module is used to get command line input from the user.
 
