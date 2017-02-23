@@ -1,5 +1,5 @@
 # Weather-Application
-A simple weather-app in nodejs
+A weather-app in nodejs
 
 This is a WeatherApp built entirely on nodejs.
 
